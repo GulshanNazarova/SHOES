@@ -1,0 +1,63 @@
+
+/* ROOT */
+.dark{
+    --bgColor:black;
+    --color: rgb(255, 255, 255) ;
+    --buttonColor:rgba(255, 255, 255, 0.764);
+    --addBtnColor:black;
+    --bgi:'../images/catwalk-shoes3.png';
+    --scrollbg:white;
+    --progressbg:black;
+    --bgUnderline:white;
+   
+    // .navbar-brand{
+    //     background-image: url('../images/catwalk\ shoes2.png');
+    // }
+}
+
+.light{
+    --bgColor: rgb(232, 232, 232);
+    --color:rgb(0, 0, 0);
+    --buttonColor:black;
+    --addBtnColor:white;
+    --bgi:'../images/catwalk-shoes2.png';
+    --scrollbg:black;
+    --progressbg:white;
+    --bgUnderline:black;
+    // .navbar-brand{
+    //     background-image: url('../images/catwalk\ shoes3.png');
+    // }
+}
+
+.themeMode{
+    background-color: var(--bgColor);
+    color: var(--color);
+    // .navbar-brand{
+    //     background-image: url((var(--bgi)));
+    // }
+    .nav-item a{
+        color: var(--color) !important;
+    }
+    .nav-link::after{
+        background: var(--bgUnderline);
+    }
+    .add-btn{
+        background-color: var(--buttonColor);
+        color: var(--addBtnColor);
+    }
+    .theme-btn, i{
+        color: var(--buttonColor);
+        background: transparent;
+
+    }
+    .command-text{
+        color: white;
+    }
+    .scroll-con{
+        background: var(--scrollbg);
+    }
+    .item{
+        background: var(--progressbg)
+    }
+    
+}

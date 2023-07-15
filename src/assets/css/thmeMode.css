@@ -1,0 +1,50 @@
+/* ROOT */
+.dark {
+  --bgColor:black;
+  --color: rgb(255, 255, 255) ;
+  --buttonColor:rgba(255, 255, 255, 0.764);
+  --addBtnColor:black;
+  --bgi:"../images/catwalk-shoes3.png";
+  --scrollbg:white;
+  --progressbg:black;
+  --bgUnderline:white;
+}
+
+.light {
+  --bgColor: rgb(232, 232, 232);
+  --color:rgb(0, 0, 0);
+  --buttonColor:black;
+  --addBtnColor:white;
+  --bgi:"../images/catwalk-shoes2.png";
+  --scrollbg:black;
+  --progressbg:white;
+  --bgUnderline:black;
+}
+
+.themeMode {
+  background-color: var(--bgColor);
+  color: var(--color);
+}
+.themeMode .nav-item a {
+  color: var(--color) !important;
+}
+.themeMode .nav-link::after {
+  background: var(--bgUnderline);
+}
+.themeMode .add-btn {
+  background-color: var(--buttonColor);
+  color: var(--addBtnColor);
+}
+.themeMode .theme-btn, .themeMode i {
+  color: var(--buttonColor);
+  background: transparent;
+}
+.themeMode .command-text {
+  color: white;
+}
+.themeMode .scroll-con {
+  background: var(--scrollbg);
+}
+.themeMode .item {
+  background: var(--progressbg);
+}/*# sourceMappingURL=thmeMode.css.map */

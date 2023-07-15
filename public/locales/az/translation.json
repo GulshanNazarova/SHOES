@@ -1,0 +1,31 @@
+{
+    "header":{
+        "0":"Ana səhifə",
+        "1":"Ayaqqabılar",
+        "2":"Haqqında",
+        "3":"Bəyənilənlər",
+        "4":"Səbət",
+        "5":"Bloglar"
+    },
+    "home":{
+        "0":"2022/23 BƏDİYYƏT KARYERASI ",
+        "1":"Ayaqqabılar",
+        "2":"RƏNGLƏR KIVILENT",
+        "3":"Bu ayın ən yaxşısı"
+    },
+    "about":{
+        "0":"“ƏFSANƏM UĞRALANSIN VƏ TƏKVƏT OLSUN. UZUN VƏ XOŞBƏXT Ömür Arzulayıram!” ",
+        "1":"*Şanelin cazibəsi, Paul Morand, Hermann, 1996 © Man Ray Trust / ADAGP Paris 2016",
+        "2":"Gabrielle Chanel həyatını tək istədiyi kimi yaşadı. Yetim kimi uşaqlıq sınaqları və bacarıqlı bir iş qadınının uğurları qeyri-adi bir xarakter doğurdu; cəsarətli, sərbəst və vaxtından əvvəl. Sadiq dostluqlar və ehtiraslı sevgi münasibətləri, eləcə də mədəniyyət, kəşf və səyahət üçün susuzluq onun şəxsiyyətini formalaşdırmağa kömək etdi. Məhdudiyyətlərdən və həddindən artıqlıqdan azad edilmiş, kişi vurğuları ilə düzəldilmiş qarderob zamansız və eyni zamanda vəhşicəsinə müasirləşmiş uzaqgörən cazibə yaratdı. İncilər və brilyantlar ikonik ətirlər ilə təsadüfi qoşalaşmış mirvarilər və brilyantlar imza üslubu yaradıb... Həyat tərzi və çoxsaylı cəhətləri qurduğu Evin dəyərlərini formalaşdıran və bütün qadınlar üçün ilham mənbəyi olaraq qalan avanqard qadın stili.",
+        "3":"SÖZLƏRLƏ KOKO",
+        "4":"KOMANDA",
+        "5":"Butiklərdə daha çox kəşf edin",
+        "6":"Yaradıcılığımız hər bir butikimiz tərəfindən düşünülmüş şəkildə hazırlanır. Daha çox kəşf etmək üçün sizi sizə ən yaxın butiki tapmağa dəvət edirik."
+    },
+    "wishlist":{
+        "0":"İstək Siyahınız boşdur.."
+    },
+    "cart":{
+        "0":"TÖVSİYƏ EDİLƏNLƏR"
+    }
+}

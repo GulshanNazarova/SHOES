@@ -1,0 +1,31 @@
+{
+    "header":{
+        "0":"Home",
+        "1":"Shoes",
+        "2":"About",
+        "3":"Wishlist",
+        "4":"Cart",
+        "5":"Blogs"
+    },
+    "home":{
+        "0":"2022/23 METIERS D'ART",
+        "1":"SHOES",
+        "2":"COLOURFUL QUILTING",
+        "3":"The best of this month"
+    },
+    "about":{
+        "0":"“MAY MY LEGEND PROSPER AND THRIVE. I WISH IT A LONG AND HAPPY LIFE!”",
+        "1":"*The Allure of Chanel by Paul Morand, Hermann, 1996 © Man Ray Trust / ADAGP Paris 2016",
+        "2":"Gabrielle Chanel lived her life as she alone intended. The trials of a childhood as an orphan and the successes of an accomplished businesswoman gave birth to an extraordinary character; daring, free, and ahead of her time. Faithful friendships and passionate love affairs, as well as a thirst for culture, discovery and travel helped shaped her personality. A wardrobe freed from constraints and superfluity, tweaked with masculine accents, created a visionary allure that has become timeless and yet wildly modern. Pearls and diamonds casually paired with iconic perfumes have created a signature style... That of an avant-garde woman, a pioneer whose lifestyle and multiple facets forged the values of the House she founded, and who remains an inspiration for all women.",
+        "3":"COCO IN WORDS",
+        "4":"THE COMMAND",
+        "5":"Discover more in boutiques",
+        "6":"Our creations are thoughtfully curated by each of our boutiques. To discover more, we invite you to find the boutique nearest you."
+    },
+    "wishlist":{
+        "0":"Your Wishlist is emty.."
+    },
+    "cart":{
+       "0":"RECOMMENDED"
+    }
+}
